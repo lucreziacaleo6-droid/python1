@@ -27,4 +27,4 @@ uv run python tests/test_operations.py
 
 - `src/python1/operations.py`: the four functions
 - `src/python1/main.py`: the menu
-- `tests/test_operations.py`: six assertions
+- `tests/test_operations.py`: six assertions# python1
